@@ -29,6 +29,7 @@ This is a curated list of resources for the architecture framework created by Ub
 * [Uber RIBs](https://www.youtube.com/watch?v=Q5cTT0M0YXg)
 * [Uber Deep Scope Hierarchies](https://www.youtube.com/watch?v=LWu1HcFIRnQ)
 * [Uber Plugins](https://www.youtube.com/watch?v=vIdsYLXClZs)
+* [Swift at Scale; Rewriting the Uber App](https://www.skilled.io/u/playgroundscon/swift-at-scale)
 
 #### Others
 
