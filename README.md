@@ -21,6 +21,10 @@ This is a curated list of resources for the architecture framework created by Ub
 * [https://github.com/dev4jam/ToDo](https://github.com/dev4jam/ToDo)
 
 
+## Reading resources
+
+* [Reddit](https://www.reddit.com/r/androiddev/comments/6r5yre/building_scalable_isolated_mobile_features_with/)
+
 ## Videos
 
 #### Uber Engineering
