@@ -24,6 +24,7 @@ This is a curated list of resources for the architecture framework created by Ub
 ## Reading resources
 
 * [Reddit](https://www.reddit.com/r/androiddev/comments/6r5yre/building_scalable_isolated_mobile_features_with/)
+* [ToDo](https://github.com/aitorvs/android-architecture/tree/todo-ribs)
 
 ## Videos
 
