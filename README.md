@@ -8,7 +8,7 @@ This is a curated list of resources for the architecture framework created by Ub
 
 ## Slack channel
 
-* [RIBs Slack channel](uber-ribs.slack.com)
+* [RIBs Slack channel](https://uber-ribs.slack.com)
 
 ## Projects Using RIBs
 
