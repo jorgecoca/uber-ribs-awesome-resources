@@ -25,6 +25,7 @@ This is a curated list of resources for the architecture framework created by Ub
 ## Reading resources
 
 * [Reddit](https://www.reddit.com/r/androiddev/comments/6r5yre/building_scalable_isolated_mobile_features_with/)
+* [Engineering the Architecture Behind Uber’s New Rider App](https://eng.uber.com/new-rider-app/)
 
 ## Videos
 
